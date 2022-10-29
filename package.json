@@ -1,0 +1,16 @@
+{
+"name": "iminext",
+"theme": "iminext",
+"version": "1.9.8",
+"description": "iminext ทางเข้าหลักเว็บไซต์คาสิโนเว็บตรง อันดับ 1 ให้เครดิตฟรี",
+"keywords": [
+"iminext",
+"iminext เครดิตฟรี",
+"iminext ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/iminext",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
